@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My First APK Project</string>
+    <string name="edit_message">Вбивай сюда, чего ты ждешь то</string>
+    <string name="button_drawLine">Нарисовать прямую</string>
+    <string name="sec_act_name">Вывод текста:</string>
+    <string name="button_makeDot">Создать точку</string>
+    <string name="x_Cord_Text">X</string>
+    <string name="y_Cord_Text" translatable="false">Y</string>
+    <string name="radio_color">Белая точка</string>
+    <string name="radio_color_bl">Черная точка</string>
+</resources>
